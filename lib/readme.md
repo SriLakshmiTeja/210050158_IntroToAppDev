@@ -1,0 +1,1 @@
+you can go to /my_project/lib and then using "flutter run" command you can run this.
